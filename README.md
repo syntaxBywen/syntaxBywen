@@ -14,10 +14,10 @@
 - react
 - vue
 
-´´´
+```
 console.log('Hello World')
 print('Hello World')
 System.out.ptintln('Hello World');
-´´´
+```
 
 
